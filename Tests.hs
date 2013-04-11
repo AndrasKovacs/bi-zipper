@@ -1,4 +1,3 @@
-
 import Test.QuickCheck
 import Test.Framework
 import Test.Framework.Providers.QuickCheck2
@@ -32,14 +31,3 @@ tests = [
     ]
 
 main = defaultMain tests
-
-
-
-
-
-
-
-
-
-
-
